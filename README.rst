@@ -3,6 +3,8 @@ CompChemJob
 ===========
 
 
+NOTE: THIS PROJECT HAS BEEN ARCHIVED.
+
 .. image:: https://img.shields.io/pypi/v/ccjob.svg
         :target: https://pypi.python.org/pypi/ccjob
 
@@ -19,13 +21,6 @@ CompChemJob
 Easy automation for quantum chemistry jobs.
 
 
-* Free software: MIT license
-
-
-Features
---------
-
-* TODO
 
 Credits
 -------
